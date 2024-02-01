@@ -25,3 +25,18 @@ G:\C#\project\project\bl\obj\Debug\net6.0\ref\bl.dll
 G:\C#\project\project\bl\bin\Debug\net6.0\dal.dll
 G:\C#\project\project\bl\bin\Debug\net6.0\dal.pdb
 G:\C#\project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\bin\Debug\net6.0\bl.deps.json
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\bin\Debug\net6.0\bl.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\bin\Debug\net6.0\bl.pdb
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\bin\Debug\net6.0\dal.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\bin\Debug\net6.0\dal.pdb
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.csproj.AssemblyReference.cache
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.AssemblyInfoInputs.cache
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.AssemblyInfo.cs
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.csproj.CoreCompileInputs.cache
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.csproj.CopyComplete
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\refint\bl.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\bl.pdb
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\bl\obj\Debug\net6.0\ref\bl.dll

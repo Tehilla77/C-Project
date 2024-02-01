@@ -26,3 +26,17 @@ G:\C#\project\project\dal\obj\Debug\net6.0\refint\dal.dll
 G:\C#\project\project\dal\obj\Debug\net6.0\dal.pdb
 G:\C#\project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
 G:\C#\project\project\dal\obj\Debug\net6.0\ref\dal.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\bin\Debug\net6.0\dal.deps.json
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\bin\Debug\net6.0\dal.runtimeconfig.json
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\bin\Debug\net6.0\dal.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\bin\Debug\net6.0\dal.pdb
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\refint\dal.dll
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\dal.genruntimeconfig.cache
+C:\Users\t0527\OneDrive\שולחן העבודה\ProjectC#\C-Project\project\dal\obj\Debug\net6.0\ref\dal.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\C#\\project\\project\\bl\\bl.csproj": {}
+    "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\bl\\bl.csproj": {}
   },
   "projects": {
-    "G:\\C#\\project\\project\\bl\\bl.csproj": {
+    "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\bl\\bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C#\\project\\project\\bl\\bl.csproj",
+        "projectUniqueName": "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\bl\\bl.csproj",
         "projectName": "bl",
-        "projectPath": "G:\\C#\\project\\project\\bl\\bl.csproj",
-        "packagesPath": "C:\\Users\\326381837\\.nuget\\packages\\",
-        "outputPath": "G:\\C#\\project\\project\\bl\\obj\\",
+        "projectPath": "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\bl\\bl.csproj",
+        "packagesPath": "C:\\Users\\t0527\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\bl\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\326381837\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\t0527\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\C#\\project\\project\\dal\\dal.csproj": {
-                "projectPath": "G:\\C#\\project\\project\\dal\\dal.csproj"
+              "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\dal\\dal.csproj": {
+                "projectPath": "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\dal\\dal.csproj"
               }
             }
           }
@@ -59,21 +63,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\C#\\project\\project\\dal\\dal.csproj": {
+    "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\dal\\dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C#\\project\\project\\dal\\dal.csproj",
+        "projectUniqueName": "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\dal\\dal.csproj",
         "projectName": "dal",
-        "projectPath": "G:\\C#\\project\\project\\dal\\dal.csproj",
-        "packagesPath": "C:\\Users\\326381837\\.nuget\\packages\\",
-        "outputPath": "G:\\C#\\project\\project\\dal\\obj\\",
+        "projectPath": "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\dal\\dal.csproj",
+        "packagesPath": "C:\\Users\\t0527\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t0527\\OneDrive\\שולחן העבודה\\ProjectC#\\C-Project\\project\\dal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\326381837\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\t0527\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
