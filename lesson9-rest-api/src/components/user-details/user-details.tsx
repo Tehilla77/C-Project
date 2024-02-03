@@ -16,8 +16,8 @@ const UserDetails: FC<UserDetailsProps> = (props:UserDetailsProps) => {
       props.funcParentAdd(valueForm)
     },
     validationSchema: Yup.object().shape({
-      id: Yup.string().required(),
-      name: Yup.string().required(),
+      id: Yup.string().required().min(9).max(9),
+      name: Yup.string().required().min(2),
       hmo: Yup.string().required(),
     })
   })
