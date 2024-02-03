@@ -14,7 +14,7 @@ export default new class ApiService {
     }
 
     deleteClient(user: any) {
-        return axios.delete(`${this.BASE_URL}/`,user)
+        return axios.post(`${this.BASE_URL}/delete/client`,user)
     }
 
 

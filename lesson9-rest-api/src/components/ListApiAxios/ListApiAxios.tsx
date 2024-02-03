@@ -24,6 +24,7 @@ const ListApiAxios: FC<ListApiAxiosProps> = () => {
       // setListApiDisplay(res.data)
     })
   }
+  
   const getClientById = (e: any) => {
     if (e.target.value == '') {
       return;
@@ -32,11 +33,22 @@ const ListApiAxios: FC<ListApiAxiosProps> = () => {
       setUser(res.data)
     })
   }
-  const deleteClient = (client: any) => {
-      apiService.deleteClient(client).then((res) => {
+
+  const addNewClient = (client: any) => {
+    apiService.inserNewClient(client).then((resp) => {
+      apiService.getClientListApi().then((res) => {
+        setListApi(res.data)
       })
-    loadItems();
+    })
   }
+
+
+  const deleteClient = (client: any) => {
+    apiService.deleteClient(client).then((res) => {
+    loadItems();
+    })
+  }
+
   // const deleteItem = async (id: number) => {
   //   apiService.deleteApi(id).then((res) => {
   //     listApi.splice(id, 1)
@@ -48,13 +60,6 @@ const ListApiAxios: FC<ListApiAxiosProps> = () => {
   //   })
   // }
 
-  const addNewClient = (client: any) => {
-    apiService.inserNewClient(client).then((resp) => {
-      apiService.getClientListApi().then((res) => {
-        setListApi(res.data)
-      })
-    })
-  }
   return <div className='row'>
     <input type='text' onBlur={(e) => getClientById(e)} className="form-control m-1"></input><br></br>
     {user ? <div className='m-4'>
@@ -73,7 +78,7 @@ const ListApiAxios: FC<ListApiAxiosProps> = () => {
               <h5 className="card-title">{a.id}</h5>
               <p className="card-text">{a.name}</p>
               <p className="card-text">{a.hmo}</p>
-              <button onClick={() => {deleteClient(a)}}>delete {a.name}</button>
+              <button onClick={() => { deleteClient(a) }}>delete {a.name}</button>
             </div>
           </div>
         </div>
